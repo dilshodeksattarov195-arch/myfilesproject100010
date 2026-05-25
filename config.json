@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercalculate",
+        "uuid": 9600,
+        "checksum": "v8oggo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
